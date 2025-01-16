@@ -16,7 +16,12 @@ This has some important advantages over the default awesomeWM module:
 
 ### Installation
 
-To install, run: ``` cd $HOME/.config/awesome git clone ```
+To install, run: 
+
+```
+cd $HOME/.config/awesome
+git clone https://github.com/ASKaraferias/bettersnap.git
+```
 
 ### Basic Usage
 
