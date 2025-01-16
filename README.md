@@ -28,7 +28,8 @@ git clone https://github.com/ASKaraferias/bettersnap.git
 Add these lines to your `rc.lua`:
 
 ``` 
-local bettersnap = require("bettersnap") bettersnap.snap.edge_enabled = true
+local bettersnap = require("bettersnap")
+bettersnap.snap.edge_enabled = true
 
 -- And disable the default snapping functionality like so:
 awful.mouse.snap.edge_enabled = false
