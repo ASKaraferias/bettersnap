@@ -31,7 +31,8 @@ Add these lines to your `rc.lua`:
 local bettersnap = require("bettersnap") bettersnap.snap.edge_enabled = true
 
 -- And disable the default snapping functionality like so:
-awful.mouse.snap.edge_enabled = false awful.mouse.snap.client_enabled = false
+awful.mouse.snap.edge_enabled = false
+awful.mouse.snap.client_enabled = false
 ```
 
 ### Theme Variables
