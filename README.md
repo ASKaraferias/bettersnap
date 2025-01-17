@@ -12,6 +12,10 @@ This has some important advantages over the default awesomeWM module:
   each edge than top, bottom, left, right, top-left, top-right, bottom-left,
   bottom right, that can be configured by the user.
 
+
+https://github.com/user-attachments/assets/a0eae7b1-c528-4d98-b812-cd91e5acbd95
+
+
 ## Usage
 
 ### Installation
